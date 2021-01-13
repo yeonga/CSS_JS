@@ -1,0 +1,41 @@
+header {
+	background-color:#666666; 
+	text-align:center; 
+	padding:30px;
+}
+
+header h2 {
+	font-size:35px; 
+	color:white;
+}
+
+#menu {
+	background-color:lightgray; 
+	height:200px; 
+	float:left; 
+	width:20%; 
+	padding:10px;
+}
+
+#menu ul {
+	list-style-type:none;
+}
+
+.link {
+	color: red;
+}
+
+article {
+	height:200px; 
+	float:left; 
+	width:60%; 
+	padding:10px;
+}
+
+footer {
+	background-color:darkgray; 
+	clear:both; 
+	text-align:center; 
+	padding:5px;
+	color:white;
+}
